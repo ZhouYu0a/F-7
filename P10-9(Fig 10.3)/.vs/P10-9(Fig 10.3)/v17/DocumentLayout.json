@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\F-7\\P10-9(Fig 10.3)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB5E239-27D1-43BA-B4C6-0DAA8C872596}|P10-9(Fig 10.3)\\P10-9(Fig 10.3).vcxproj|C:\\Users\\user\\Desktop\\F-7\\P10-9(Fig 10.3)\\P10-9(Fig 10.3)\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EB5E239-27D1-43BA-B4C6-0DAA8C872596}|P10-9(Fig 10.3)\\P10-9(Fig 10.3).vcxproj|solutionrelative:P10-9(Fig 10.3)\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\F-7\\P10-9(Fig 10.3)\\P10-9(Fig 10.3)\\Main.c",
+              "RelativeDocumentMoniker": "P10-9(Fig 10.3)\\Main.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\F-7\\P10-9(Fig 10.3)\\P10-9(Fig 10.3)\\Main.c",
+              "RelativeToolTip": "P10-9(Fig 10.3)\\Main.c",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-30T10:25:47.658Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
